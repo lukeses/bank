@@ -1,0 +1,23 @@
+c:\users\student.lab-144-2.001\documents\visual studio 2013\Projects\bank\bank\bin\Debug\bank.exe.config
+c:\users\student.lab-144-2.001\documents\visual studio 2013\Projects\bank\bank\obj\Debug\bank.csprojResolveAssemblyReference.cache
+c:\users\student.lab-144-2.001\documents\visual studio 2013\Projects\bank\bank\bin\Debug\bank.exe
+c:\users\student.lab-144-2.001\documents\visual studio 2013\Projects\bank\bank\bin\Debug\bank.pdb
+c:\users\student.lab-144-2.001\documents\visual studio 2013\Projects\bank\bank\obj\Debug\bank.exe
+c:\users\student.lab-144-2.001\documents\visual studio 2013\Projects\bank\bank\obj\Debug\bank.pdb
+C:\Users\student.LAB-144-2.001\Downloads\bank\bank\bank\bin\Debug\bank.exe.config
+C:\Users\student.LAB-144-2.001\Downloads\bank\bank\bank\obj\Debug\bank.exe
+C:\Users\student.LAB-144-2.001\Downloads\bank\bank\bank\obj\Debug\bank.pdb
+C:\Users\student.LAB-144-2.001\Downloads\bank\bank\bank\obj\Debug\bank.csprojResolveAssemblyReference.cache
+C:\Users\student.LAB-144-2.001\Downloads\bank\bank\bank\bin\Debug\bank.exe
+C:\Users\student.LAB-144-2.001\Downloads\bank\bank\bank\bin\Debug\bank.pdb
+C:\Users\student.LAB-144-2.001\Documents\Visual Studio 2013\bank_tests\bank\bank\bank\bin\Debug\bank.exe.config
+C:\Users\student.LAB-144-2.001\Documents\Visual Studio 2013\bank_tests\bank\bank\bank\obj\Debug\bank.exe
+C:\Users\student.LAB-144-2.001\Documents\Visual Studio 2013\bank_tests\bank\bank\bank\obj\Debug\bank.pdb
+C:\Users\student.LAB-144-2.001\Documents\Visual Studio 2013\bank_tests\bank\bank\bank\obj\Debug\bank.csprojResolveAssemblyReference.cache
+C:\Users\student.LAB-144-2.001\Documents\Visual Studio 2013\bank_tests\bank\bank\bank\bin\Debug\bank.exe
+C:\Users\student.LAB-144-2.001\Documents\Visual Studio 2013\bank_tests\bank\bank\bank\bin\Debug\bank.pdb
+C:\Users\lukasz\Downloads\bank\bank\bank\bin\Debug\bank.exe.config
+C:\Users\lukasz\Downloads\bank\bank\bank\obj\Debug\bank.exe
+C:\Users\lukasz\Downloads\bank\bank\bank\obj\Debug\bank.pdb
+C:\Users\lukasz\Downloads\bank\bank\bank\bin\Debug\bank.exe
+C:\Users\lukasz\Downloads\bank\bank\bank\bin\Debug\bank.pdb

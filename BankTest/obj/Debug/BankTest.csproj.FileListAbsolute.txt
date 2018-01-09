@@ -1,0 +1,21 @@
+C:\Users\student.LAB-144-2.001\Downloads\bank\bank\BankTest\obj\Debug\BankTest.csprojResolveAssemblyReference.cache
+C:\Users\student.LAB-144-2.001\Downloads\bank\bank\BankTest\bin\Debug\BankTest.dll
+C:\Users\student.LAB-144-2.001\Downloads\bank\bank\BankTest\bin\Debug\BankTest.pdb
+C:\Users\student.LAB-144-2.001\Downloads\bank\bank\BankTest\obj\Debug\BankTest.dll
+C:\Users\student.LAB-144-2.001\Downloads\bank\bank\BankTest\obj\Debug\BankTest.pdb
+C:\Users\student.LAB-144-2.001\Downloads\bank\bank\BankTest\bin\Debug\bank.exe
+C:\Users\student.LAB-144-2.001\Downloads\bank\bank\BankTest\bin\Debug\bank.pdb
+C:\Users\student.LAB-144-2.001\Documents\Visual Studio 2013\bank_tests\bank\bank\BankTest\obj\Debug\BankTest.csprojResolveAssemblyReference.cache
+C:\Users\student.LAB-144-2.001\Documents\Visual Studio 2013\bank_tests\bank\bank\BankTest\obj\Debug\BankTest.dll
+C:\Users\student.LAB-144-2.001\Documents\Visual Studio 2013\bank_tests\bank\bank\BankTest\bin\Debug\BankTest.dll
+C:\Users\student.LAB-144-2.001\Documents\Visual Studio 2013\bank_tests\bank\bank\BankTest\bin\Debug\BankTest.pdb
+C:\Users\student.LAB-144-2.001\Documents\Visual Studio 2013\bank_tests\bank\bank\BankTest\bin\Debug\bank.exe
+C:\Users\student.LAB-144-2.001\Documents\Visual Studio 2013\bank_tests\bank\bank\BankTest\bin\Debug\bank.pdb
+C:\Users\student.LAB-144-2.001\Documents\Visual Studio 2013\bank_tests\bank\bank\BankTest\obj\Debug\BankTest.pdb
+C:\Users\lukasz\Downloads\bank\bank\BankTest\obj\Debug\BankTest.csprojResolveAssemblyReference.cache
+C:\Users\lukasz\Downloads\bank\bank\BankTest\obj\Debug\BankTest.dll
+C:\Users\lukasz\Downloads\bank\bank\BankTest\bin\Debug\BankTest.dll
+C:\Users\lukasz\Downloads\bank\bank\BankTest\bin\Debug\BankTest.pdb
+C:\Users\lukasz\Downloads\bank\bank\BankTest\bin\Debug\bank.exe
+C:\Users\lukasz\Downloads\bank\bank\BankTest\bin\Debug\bank.pdb
+C:\Users\lukasz\Downloads\bank\bank\BankTest\obj\Debug\BankTest.pdb
